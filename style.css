@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+.home_page_buttons{
+    width: 400px;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.heading{
+    width: 100%;
+    margin: 0;
+    height: 50px;
+    font-size: 28px;
+}
+
+#status{
+    margin-top: 50px;
+    font-size: 19px;
+}
+
+.back_btn{
+background: black;
+color: white;
+margin-left: 1400px;
+cursor: pointer;
+}
